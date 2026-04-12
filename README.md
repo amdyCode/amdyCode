@@ -2,7 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=amdyCode.amdyCode&" alt="visitors" />
 </div>
 
-<p><b><span style="font-size:20px;">Hello 👋, I'm Amdy Diop</span></b></p>
+<p><b><span style="font-size:30px;">Hello 👋, I'm Amdy Diop</span></b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&color=3B82F6&weight=700&pause=1000&center=true&vCenter=true&width=520&lines=Mobile+%26+Fullstack+Developer" />
