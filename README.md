@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=amdyCode.amdyCode&" alt="visitors" />
+</div>
+
 <p><b><span style="font-size:20px;">Hello 👋, I'm Amdy Diop</span></b></p>
 
 <p align="center">
@@ -12,12 +16,11 @@
 
 ## 🌐 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+  <a href="https://www.linkedin.com/in/amdy-diop-040504252/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="34"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.x.com/">
-    <img src="https://cdn.simpleicons.org/x/000000" width="30"/>
+  <a href="https://x.com/amdyCode">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="34"/>
   </a>
 </p>
 
@@ -31,8 +34,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
 </p>
-
----
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=amdyCode.amdyCode&" alt="visitors" />
-</div>
