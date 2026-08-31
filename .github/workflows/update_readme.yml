@@ -2,7 +2,7 @@ name: Update Experience in README
 
 on:
   schedule:
-    - cron: '30 10 * * *'
+    - cron: '00 13 * * *'
   workflow_dispatch:
 
 permissions:
