@@ -9,7 +9,7 @@
 </p>
 
 <!-- experience_start -->
-🔭 With 2 years of experience, I build smooth and performant applications using Flutter and Angular.
+🔭 With 2 years and 2 days of experience, I build smooth and performant applications using Flutter and Angular.
 <!-- experience_end -->
 
 🌝 Currently deepening my backend architecture skills with Node.js and Laravel.
