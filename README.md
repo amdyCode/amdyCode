@@ -8,7 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&color=3B82F6&weight=700&pause=1000&center=true&vCenter=true&width=520&lines=Mobile+%26+Fullstack+Developer" />
 </p>
 
+<!-- experience_start -->
 🔭 With 2 years of experience, I build smooth and performant applications using Flutter and Angular.
+<!-- experience_end -->
 
 🌝 Currently deepening my backend architecture skills with Node.js and Laravel.
 
